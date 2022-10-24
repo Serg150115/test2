@@ -8,5 +8,7 @@ table.add_row(['Андрей', 7, 'Ковров'])
 table.add_row(['Тоня', 6, 'Минск'])
 table.add_row(['Толя', 8, 'Санкт-Петербург'])
 table.add_row(['Лера', 5, 'Краснодар'])
+table.add_row(['Валера', 58, 'Краснодар'])
+
 
 print(table)
